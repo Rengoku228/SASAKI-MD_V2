@@ -1,7 +1,7 @@
 # SASAKI-MD_V2
 WHATSAPP BOT MULTIFONCTIONS 
 <a>
-                                      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+20+Charted&size=40&pause=2000&color=F71515&width=1000&lines=TEAM+200+SASAKI%F" alt="Typing SVG" /></a>   
+                                      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+20+Charted&size=100&pause=5000&color=F71515&width=2000&lines=TEAM++SASAKI" alt="Typing SVG" /></a>   
             
 <p align="center"> 
 <up A simple WhatsApp User Bot Coded By Akashi and Arthur </u>
