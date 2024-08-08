@@ -9,8 +9,8 @@ RUN apt-get update && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
   
-RUN git clone https://github.com/DeeCeeXxx/Queen_Anita-V2  /root/DeeCeeXxx
-WORKDIR /root/DeeCeeXxx/
+RUN git clone https://github.com/Alp24ni/SASAKI-MD_V2  /root/Alp24ni
+WORKDIR /root/Alp24ni/
 
 
 COPY package.json .
