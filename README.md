@@ -1,7 +1,7 @@
 # SASAKI-MD_V2
 WHATSAPP BOT MULTIFONCTIONS 
 <a>
-                                      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+20+Charted&size=40&pause=900&color=F71515&width=500&lines=TEAM+100%25+SASAKI%E2%84%A2%EF%B8%8F" alt="Typing SVG" /></a>   
+                                      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+20+Charted&size=40&pause=2000&color=F71515&width=1000&lines=TEAM+200+SASAKI%F" alt="Typing SVG" /></a>   
             
 <p align="center"> 
 <up A simple WhatsApp User Bot Coded By Akashi and Arthur </u>
@@ -9,7 +9,7 @@ WHATSAPP BOT MULTIFONCTIONS
 <p align="center">
 <img src="https://telegra.ph/file/8aff6928045c1fddb8800.jpg"/>       
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=30&duration=5000&pause=1000&random=false&width=500&lines=+•__I'M+SASAKI-MD_V2__•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+AKASHI SASAKI+AND+ARTHUR SASAKI;RELEASED+DATE+07%2F7%2F2024."                               alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=30&duration=5000&pause=1000&random=false&width=500&lines=+•__I'M+SASAKI-MD_V2__•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+AKASHI SASAKI+AND+ARTHUR SASAKI."                               alt="Typing SVG" /></a>
 </p> +
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-TEAM_SASAKI-red.svg?style=for-the-badge&logo=github"></a>
@@ -21,7 +21,7 @@ WHATSAPP BOT MULTIFONCTIONS
 <p align="center">
 <a href="https://github.com/Alp24ni?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Alp24ni?label=Followers&style=social"></a>
 <a href="https://github.com/Alp24ni/SASAKI-MD_V2/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/Alp24ni/SASAKI-MD_V2?&style=social"></a>
-<a href="https://github.com/Alp24ni/SASAKI-MD_V2"><img title="Fork" src="https://img.shields.io/github/forks/https://github.com/Alp24ni/SASAKI-MD_V2?style=social"></a>
+<a href="https://github.com/Alp24ni/SASAKI-MD_V2"><img title="Fork" src="https://img.shields.io/github/forks/Alp24ni/SASAKI-MD_V2?style=social"></a>
 <a href="https://github.com/Alp24ni/SASAKI-MD_V2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Alp24ni/SASAKI-MD_V2?label=Watching&style=social"></a>
 </p>
    
