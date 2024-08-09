@@ -39,7 +39,7 @@ WHATSAPP BOT MULTIFONCTIONS
 ### 2. GET SESSION_ID BY TEAM SASAKI
 
 ### QR CODE.
-<a href='https://web-qr-q4sk.onrender.com/fork' target="_blank"><img alt='PAIR CODE' src='https://img.shields.io/badge/PAIR CODE-Purple?style=for-the-badge&logo=git&logoColor=white'/></a>
+<a href='https://web-qr-q4sk.onrender.com/fork' target="_blank"><img alt='QR-CODE' src='https://img.shields.io/badge/QR-CODE-Purple?style=for-the-badge&logo=git&logoColor=white'/></a>
 <p align="center">
 
 
