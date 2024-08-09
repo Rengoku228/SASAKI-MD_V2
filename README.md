@@ -25,7 +25,7 @@ WHATSAPP BOT MULTIFONCTIONS
 <a href="https://github.com/Alp24ni/SASAKI-MD_V2/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/Alp24ni/SASAKI-MD_V2?&style=social"></a>
 <a href="https://github.com/Alp24ni/SASAKI-MD_V2"><img title="Fork" src="https://img.shields.io/github/forks/Alp24ni/SASAKI-MD_V2?style=social"></a>
 <a href="https://github.com/Alp24ni/SASAKI-MD_V2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Alp24ni/SASAKI-MD_V2?label=Watching&style=social"></a>
-</p>IR+
+</p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
