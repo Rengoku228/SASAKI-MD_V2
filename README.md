@@ -25,7 +25,7 @@ WHATSAPP BOT MULTIFONCTIONS
 <a href="https://github.com/Alp24ni/SASAKI-MD_V2/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/Alp24ni/SASAKI-MD_V2?&style=social"></a>
 <a href="https://github.com/Alp24ni/SASAKI-MD_V2"><img title="Fork" src="https://img.shields.io/github/forks/Alp24ni/SASAKI-MD_V2?style=social"></a>
 <a href="https://github.com/Alp24ni/SASAKI-MD_V2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Alp24ni/SASAKI-MD_V2?label=Watching&style=social"></a>
-</p>
+</p>IR+
    
 ### 1. FORK THIS REPO
 
@@ -35,6 +35,9 @@ WHATSAPP BOT MULTIFONCTIONS
 ### 2. GET SESSION_ID BY TEAM SASAKI
 
 ### CODE QR.  [`SCANING QR`](https://scan-flash-md-ik5n.onrender.com) 
+<a href='https://scan-flash-md-ik5n.onrender.com/fork' target="_blank"><img alt='PAIR CODE' src='https://img.shields.io/badge/PAIR CODE-Purple?style=for-the-badge&logo=git&logoColor=white'/></a>
+<p align="center">
+
 
 ### PAIR.  [`PAIRING CODE `](https://the-flash-md-sessions.onrender.com/pair)
 
