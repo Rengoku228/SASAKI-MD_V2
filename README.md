@@ -50,3 +50,84 @@ WHATSAPP BOT MULTIFONCTIONS
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+## How To Deploy On Github.
+* [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/T77rQM7Nk5k?si=gg-LJxS6vC6kBEpJ)
+
+• Create a new file [`.github/workflows/deploye.yml`] After created, copy this code👇🏽and paste it there
+```yml
+name: Node.js CI
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [20.x]
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: ${{ matrix.node-version }}
+
+    - name: Install dependencies
+      run: npm install
+
+    - name: Start application
+      run: npm start
+
+```
+  
+#### DEPLOY TO RENDER 
+
+1. If You don't have a account in render. Create a account.
+    <br>
+<a href='https://dashboard.render.com/register' target="_blank"><img alt='render' src='https://img.shields.io/badge/-Create-Blue?style=for-the-badge&logo=render&logoColor=white'/></a>
+2. Now Deploy
+    <br>
+<a href='https://render.com/deploy?repo=https://github.com/Alp24ni/SASAKI-MD_V2' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-blue?style=for-the-badge&logo=render&logoColor=white'/></a>
+
+#### DEPLOY TO HEROKU 
+
+1. If You don't have a account in Heroku. Create a account.
+    <br>
+<a href='https://heroku.com' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Create-Green?style=for-the-badge&logo=heroku'/></a>
+   <br>
+2. Now Deploy
+    <br>
+<a href='https://heroku.com/deploy?template=https://github.com/Alp24ni/SASAKI-MD_V2' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-Blue?style=for-the-badge&logo=heroku'/></a>
+
+#### DEPLOY TO KOYEB 
+
+1. If You don't have a account in koyeb. Create a account.
+    <br>
+<a href='https://app.koyeb.com/auth/signup' target="_blank"><img alt='koyeb' src='https://img.shields.io/badge/-Create-Green?style=for-the-badge&logo=koyeb'/></a>
+
+2. Get [Koyeb api key](https://app.koyeb.com/account/api)
+
+4. Now Deploy
+    <br>
+<a href='https://app.koyeb.com/services/deploy?type=git&repository=https://github.com/Alp24ni/SASAKI-MD_V2&branch=main&name=xbotmd&builder=dockerfile&env[SESSION_ID]=%20&env[WORK_TYPE]=private&env[HANDLER]=.&env[BOT_INFO]=SASAKI-_V2;ASWIN%20SPARKY;https://i.imgur.com/QH7T7u9.jpeg&env[SUDO]=221768649590,221768649590&env[STICKER_DATA]=TEAM SASAKI&env[DATABASE_URL]' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-Green?style=for-the-badge&logo=koyeb'/></a>
+
+#### DEPLOY ON RAILWAY
+
+1. If You don't have a account in Railway. Create a account.
+    <br>
+<a href='https://railway.app' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Create-purple?style=for-the-badge&logo=railway'/>
+2. Now Deploy
+    <br>
+<a href='https://railway.app' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=railway'/></a>
