@@ -39,12 +39,12 @@ WHATSAPP BOT MULTIFONCTIONS
 ### 2. GET SESSION_ID BY TEAM SASAKI
 
 ### QR CODE.
-<a href='https://scan-flash-md-ik5n.onrender.com/fork' target="_blank"><img alt='PAIR CODE' src='https://img.shields.io/badge/PAIR CODE-Purple?style=for-the-badge&logo=git&logoColor=white'/></a>
+<a href='https://web-qr-q4sk.onrender.com/fork' target="_blank"><img alt='PAIR CODE' src='https://img.shields.io/badge/PAIR CODE-Purple?style=for-the-badge&logo=git&logoColor=white'/></a>
 <p align="center">
 
 
 ### PAIRING CODE.
-<a href='https://the-flash-md-sessions.onrender.com/pair/fork' target="_blank"><img alt='PAIR CODE' src='https://img.shields.io/badge/PAIRING-CODE-Red?style=for-the-badge&logo=git&logoColor=white'/></a>
+<a href='https://sasaki-md-v2-paire.onrender.com/fork' target="_blank"><img alt='PAIR CODE' src='https://img.shields.io/badge/PAIRING-CODE-Red?style=for-the-badge&logo=git&logoColor=white'/></a>
 <p align="center">
 
 
