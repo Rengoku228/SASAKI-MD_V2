@@ -1,6 +1,10 @@
 # SASAKI-MD_V2
+
 WHATSAPP BOT MULTIFONCTIONS 
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING+SASAKI-MD_V2;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+TEAM+SASAKI" alt="Typing SVG" /></a>
+  </p>
+  
 <p align="center"> 
 <up A simple WhatsApp User Bot Coded By Akashi and Arthur </u>
 </p>
@@ -27,3 +31,8 @@ WHATSAPP BOT MULTIFONCTIONS
 
 <a href='https://github.com/Alp24ni/SASAKI-MD_V2/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-blue?style=for-the-badge&logo=git&logoColor=white'/></a>
 <p align="center">
+***2.`GET SESSION_ID BY`***
+
+i. [`SCANING QR`](https://scan-flash-md-ik5n.onrender.com) 
+ii. [`PAIRING CODE `](https://the-flash-md-sessions.onrender.com/pair)
+
