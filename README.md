@@ -31,8 +31,11 @@ WHATSAPP BOT MULTIFONCTIONS
 
 <a href='https://github.com/Alp24ni/SASAKI-MD_V2/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-blue?style=for-the-badge&logo=git&logoColor=white'/></a>
 <p align="center">
-***2.`GET SESSION_ID BY`***
 
-i. [`SCANING QR`](https://scan-flash-md-ik5n.onrender.com) 
-ii. [`PAIRING CODE `](https://the-flash-md-sessions.onrender.com/pair)
+### 2. GET SESSION_ID BY TEAM SASAKI
 
+### CODE QR.  [`SCANING QR`](https://scan-flash-md-ik5n.onrender.com) 
+
+### PAIR.  [`PAIRING CODE `](https://the-flash-md-sessions.onrender.com/pair)
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
